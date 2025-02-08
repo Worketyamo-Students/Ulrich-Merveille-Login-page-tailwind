@@ -3,8 +3,8 @@
   une page de connexion faite avec tailwind css et  
    cette page est responsive
   ## Technologies 🚀  
-   *html  
-* tailwind css  
+ * html  
+ * tailwindcss  
   
   ## Fonctionnalites 🔥  
   juste une page de connexion responsive
