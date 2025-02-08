@@ -4,7 +4,7 @@
    cette page est responsive
   ## Technologies 🚀  
    *html  
-*css  
+* tailwind css  
   
   ## Fonctionnalites 🔥  
   juste une page de connexion responsive
